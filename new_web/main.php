@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <style>
+            *{
+                background-color:blanchedalmond;
+            }
+        </style>
+    </head>
+    hiiiiii
+</html>

@@ -1,0 +1,20 @@
+.admin{
+    margin:25px 50px 150px 100px;
+    background-color:rgba(195, 222, 231, 0.961);
+    width:50%;
+    
+}
+.book{
+    background-color: rgba(146, 220, 240, 0.685);
+    border-collapse: collapse;
+    margin:25px 50px 150px 100px;
+    width: 40%;
+    
+}
+tr.color{
+    background-color: aquamarine;
+}
+
+.login{
+    background-color: rgba(185, 126, 135, 0.947);
+}
